@@ -1,6 +1,8 @@
-using System;
+using System.IO;
+using Microsoft.AspNetCore.Hosting;
 
-namespace ProjectName {
+namespace MadLibs 
+{
   public class Program
   {
     public static void Main(string[] args)
